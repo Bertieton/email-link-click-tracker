@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "email-link-click-tracker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a80df5e0-4a13-46fa-a5cb-afe1287bc9fe",
+			"database_name": "email_link_clicks"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
